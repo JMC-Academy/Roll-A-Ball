@@ -92,8 +92,8 @@ GameObject:
   - component: {fileID: 593527366934132440}
   - component: {fileID: 3904038961509465481}
   m_Layer: 0
-  m_Name: _loor_LP
-  m_TagString: Untagged
+  m_Name: Floor_LP
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Title.unity
+    guid: 517d6ce3d87cd0d4cac8671ab98c74d6
+  - enabled: 1
+    path: Assets/_Scenes/MyGame.unity
+    guid: f6293ee8a28efec40a69721d6ba20744
+  - enabled: 1
+    path: Assets/_Scenes/MainGame.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_Scenes/MyLevel.unity
+    guid: f786a484eeaf7704bbf42c6d0136fcde
+  - enabled: 1
+    path: Assets/_Scenes/Bowling.unity
+    guid: 4a87fa212b29b6e4bb685b7e0394d7cb
+  - enabled: 1
+    path: Assets/_Scenes/TiltWorld.unity
+    guid: 42d7958b1601a47408d9efce98d0c136
   m_configObjects: {}
