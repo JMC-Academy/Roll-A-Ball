@@ -104,7 +104,7 @@ public class PlayerController : MonoBehaviour
             grounded = false;
     }
 
-    IEnumerator ResetPlayer()
+    public IEnumerator ResetPlayer()
     {
         resetting = true;
         GetComponent<Renderer>().material.color = Color.black;
